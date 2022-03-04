@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>HTML link</title>
+</head>
+
+<body>
+    <a href="https://www.w3schools.com/" target="_self" title="w3school">this is a link</a>
+</body>
+
+</html>
