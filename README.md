@@ -9,4 +9,4 @@
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程內容 | https://gitlab.com/ccc110/wp
 教材網址 | [陳鍾誠的網頁設計課程](https://kinmen6.com/root/%E9%99%B3%E9%8D%BE%E8%AA%A0/%E8%AA%B2%E7%A8%8B/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/README.md)
-筆記連結 | [陳宏遠的筆記](https://victor881212.github.io/wp110b/homework/LinkToPage.html)
+筆記連結 | [陳宏遠的網站](https://victor881212.github.io/wp110b/homework/LinkToPage.html)
