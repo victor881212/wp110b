@@ -1,0 +1,17 @@
+<html>
+
+<head>
+    <title>站內連結</title>
+</head>
+
+<body background="https://github.com/victor881212/wp110b/blob/master/homework/html/material/picture%20sky%203.jpg?raw=true">
+    <h1 style="color:rgb(6, 109, 49) ;font-size:50px;">站內連結</h1>
+    <a id="portal" style="color:blue ;font-size:50px;">out</a>
+    <a href="#portal2" style="color:blue ;font-size:50px;">in2</a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <a href="#portal" style="color:blue ;font-size:50px;">in</a>
+    <a id="portal2" style="color:blue ;font-size:50px;">out2</a>
+</body>
+
+</html>
