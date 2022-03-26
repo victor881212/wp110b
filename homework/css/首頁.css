@@ -5,22 +5,71 @@
     text-align: center;
 }
 
+#div {
+    width: auto;
+    height: auto;
+}
+
 #div2 {
     height: auto;
     width: 15%;
     text-align: left;
+    float: left;
+    margin-left: 0px;
+    margin-right: 5px;
+    margin-top: 0px;
     background-color: cadetblue;
 }
 
+#div3 {
+    height: auto;
+    width: 50%;
+    background-image: url(https://github.com/victor881212/wp110b/blob/master/homework/html/material/%E4%BA%BA%E5%9C%A8%E7%81%AB%E8%BB%8A%E5%89%8D.jpg?raw=true);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 0%;
+}
+
 #body1 {
-    background: url("https://github.com/victor881212/wp110b/blob/master/homework/html/material/picture.jpg?raw=true");
     width: 100%;
     height: 0;
+    background-image: url("https://github.com/victor881212/wp110b/blob/master/homework/html/material/picture.jpg?raw=true");
     padding-bottom: 100%;
-    overflow: hidden;
-    background-position: center center;
     background-repeat: no-repeat;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
+    background-position: center center;
     background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#pcenter {
+    text-align: center;
+}
+
+#imghead {
+    margin-left: 20px;
+    height: 25px;
+    width: 37.5px;
+}
+
+#imgkinmenuniversity {
+    margin: 0px 0px 0px 10px;
+    height: 50px;
+    width: 150px;
+}
+
+#imgclimbingmountain {
+    margin: 0px 0px 0px 10px;
+    height: 300px;
+    width: 300px;
+}
+
+hr {
+    border: 2px dashed rgb(165, 11, 226);
+}
+
+#h1list {
+    text-align: center;
+    font-family: 'Microsoft JhengHei';
 }
