@@ -33,7 +33,7 @@
     background-size: cover;
     width: 100px;
     height: 100px;
-    left: 150px;
+    right: 150px;
     top: 0px;
     border: dashed;
     border-width: 3px;
@@ -51,7 +51,7 @@
     background-size: cover;
     width: 100px;
     height: 100px;
-    right: 150px;
+    left: 150px;
     top: 0px;
     border: dashed;
     border-width: 3px;
