@@ -40,6 +40,9 @@
     border-radius: 3px;
     border-color: black;
     padding: 5px;
+    outline-style: dashed;
+    outline-width: 3px;
+    outline-color: black;
 }
 
 .box::after {
@@ -58,4 +61,7 @@
     border-radius: 3px;
     border-color: black;
     padding: 5px;
+    outline-style: dashed;
+    outline-width: 3px;
+    outline-color: black;
 }
