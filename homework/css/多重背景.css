@@ -1,0 +1,9 @@
+#body1 {
+    background: url("https://github.com/victor881212/wp110b/blob/master/homework/html/material/picture.jpg?raw=true"), url("https://github.com/victor881212/wp110b/blob/master/homework/html/material/picture%20sky.jpg?raw=true");
+    width: 100%;
+    height: 0;
+    padding-bottom: 50%;
+    background-position: left, right;
+    background-repeat: no-repeat;
+    background-size: 50% 100%, 50% 100%;
+}

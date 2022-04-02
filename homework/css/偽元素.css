@@ -1,0 +1,61 @@
+#body1 {
+    background-image: url("https://github.com/victor881212/wp110b/blob/master/homework/html/material/picture.jpg?raw=true");
+    width: 100%;
+    height: auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 100%;
+}
+
+.box {
+    background-image: url("https://github.com/victor881212/wp110b/blob/master/homework/html/material/arrow_up.png?raw=true");
+    position: relative;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    margin-left: 300px;
+    border: dashed;
+    border-width: 3px;
+    border-radius: 3px;
+    border-color: black;
+    padding: 5px;
+}
+
+.box::before {
+    background-image: url("https://github.com/victor881212/wp110b/blob/master/homework/html/material/arrow_left.png?raw=true");
+    content: "before";
+    position: absolute;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    left: 150px;
+    top: 0px;
+    border: dashed;
+    border-width: 3px;
+    border-radius: 3px;
+    border-color: black;
+    padding: 5px;
+}
+
+.box::after {
+    background-image: url("https://github.com/victor881212/wp110b/blob/master/homework/html/material/arrow_right.png?raw=true");
+    content: "after";
+    position: absolute;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    right: 150px;
+    top: 0px;
+    border: dashed;
+    border-width: 3px;
+    border-radius: 3px;
+    border-color: black;
+    padding: 5px;
+}
