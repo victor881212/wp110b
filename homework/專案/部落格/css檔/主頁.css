@@ -1,0 +1,180 @@
+li {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: solid;
+    text-align: left;
+}
+
+#pictureinput {
+    width: 100%;
+    height: auto;
+}
+
+#img1 {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    position: relative;
+}
+
+#img2 {
+    width: 100%;
+    height: 250px;
+}
+
+button {
+    width: auto;
+    height: 10%;
+    border-radius: 5PX;
+    border: 0ch;
+    background-color: transparent;
+    font-size: 26px;
+    color: rgb(81, 0, 255);
+}
+
+#div {
+    width: auto;
+    height: auto;
+}
+
+#div1 {
+    height: 50px;
+    width: 100%;
+    font-size: 50px;
+    text-align: center;
+}
+
+#div2 {
+    height: auto;
+    width: 15%;
+    text-align: left;
+    float: left;
+    margin-left: 0px;
+    margin-right: 5px;
+    margin-top: 0px;
+    font-size: 26px;
+}
+
+#div3 {
+    height: auto;
+    width: 50%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    margin-top: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 0%;
+}
+
+#div3 button.start {
+    width: auto;
+    height: 10%;
+    border-radius: 5PX;
+    border: 0ch;
+    background-color: transparent;
+    font-size: 26px;
+    color: rgb(81, 0, 255);
+    margin-top: 10px;
+}
+
+#div3 div.left {
+    height: auto;
+    width: 50%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    float: left;
+    margin-top: 1%;
+}
+
+#div3 div.left div.left {
+    height: auto;
+    width: 50%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    float: left;
+    padding: 0%;
+    margin-top: 1%;
+}
+
+#div3 div.left div.right {
+    height: auto;
+    width: 50%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    float: left;
+    padding: 0%;
+    margin-top: 1%;
+}
+
+#div3 div.right {
+    height: auto;
+    width: 50%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    float: right;
+    padding: 0%;
+    margin-top: 1%;
+}
+
+#div3 div.right div.right {
+    height: auto;
+    width: 50%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    float: right;
+    padding: 0%;
+    margin-top: 1%;
+}
+
+#div3 div.right div.left {
+    height: auto;
+    width: 50%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    float: right;
+    padding: 0%;
+    margin-top: 1%;
+}
+
+#body1 {
+    width: 100%;
+    height: 0;
+    background-image: url("../素材/Lovepik_com-literary-plant-background.jpg");
+    padding-bottom: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#pcenter {
+    text-align: center;
+}
+
+#imghead {
+    margin-left: 20px;
+    height: 25px;
+    width: 37.5px;
+}
+
+hr {
+    border: 2px dashed rgb(165, 11, 226);
+}
+
+#h1list {
+    text-align: center;
+    font-family: 'Microsoft JhengHei';
+}
